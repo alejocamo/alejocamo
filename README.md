@@ -1,6 +1,5 @@
 <h2 align="left">Hi! I'm Alejandro, an Industrial Engineer currently advancing my skills in Data Science.</h2>
 
-
 ###
 
 <div align="left">
@@ -22,7 +21,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/alejandro-castro-ingeniero" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
